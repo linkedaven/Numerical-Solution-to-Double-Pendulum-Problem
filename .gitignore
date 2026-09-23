@@ -1,0 +1,20 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Numba cache
+__pycache__/*.nbc
+__pycache__/*.nbi
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE (PyCharm)
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
