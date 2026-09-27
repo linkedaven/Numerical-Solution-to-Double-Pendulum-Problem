@@ -5,6 +5,13 @@ An interactive, real-time simulation and visualization of a **double pendulum** 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+## Output
+
+![Double pendulum simulation demo](assets/demo.gif)
+
+*Live pendulum motion (top right) alongside angular motion over time
+(top left) and the phase-space trajectories traced by each bob (bottom).*
+
 ## Features
 
 - **Live animated pendulum** with trailing motion path
