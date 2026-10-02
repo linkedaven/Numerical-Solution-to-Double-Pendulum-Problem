@@ -31,8 +31,8 @@ These equations have no closed-form solution, so they're solved **numerically** 
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/double-pendulum-vis.git
-cd double-pendulum-vis
+git clone https://github.com/linkedaven/Numerical-Solution-to-Double-Pendulum-Problem.git
+cd Numerical-Solution-to-Double-Pendulum-Problem
 pip install -r requirements.txt
 ```
 
